@@ -10,7 +10,7 @@ Objects come in two forms: the declarative (literal) form, and the constructed f
 The literal syntax for an object looks like this:
 
 ```js
-var myObj = {
+var myObj = {dsdsadasdasdasdasdasdasd
 	key: value
 	// ...
 };
